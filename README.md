@@ -70,7 +70,7 @@ The project innovatively integrates Conditional Optimal Transport into an attent
 2. **Repository Cloning:**
    - Clone the project repository to the local machine using the command:
      ```
-     git clone https://github.com/usernam/repo_name
+     git clone https://github.com/username/repo_name
      ```
 
 3. **Caption Generation:**
